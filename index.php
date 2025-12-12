@@ -18,6 +18,7 @@
 
 <ul>
     <li><a href="./janken.php">じゃんけんゲーム</a></li>
+    <li><a href="./tictactoe.php">三目並べ（Tic-Tac-Toe）</a></li>
 </ul>
 
 </body>
